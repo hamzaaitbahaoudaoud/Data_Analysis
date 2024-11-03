@@ -8,7 +8,6 @@ This Repo contains My Exploratory Data Analysis Projects for many Datasets.
     ```bash
     git clone https://github.com/hamzaaitbahaoudaoud/Data_Analysis.git
     ```
-
 2. **Navigate to the project directory:**
 
     ```bash
@@ -37,3 +36,17 @@ This Repo contains My Exploratory Data Analysis Projects for many Datasets.
     ```bash
     pip install -r requirements.txt
     ```
+
+6. **structeure projete**
+```bash
+|   README.md
+|   requirements.txt
+|
++---EDA on Diabetes Dataset
+|       diabetes.csv
+|       EDA on Diabetes Dataset.ipynb
+|
+\---EDA On Employees Dataset
+        EDA On Employees Dataset.ipynb
+        employees.csv
+```
